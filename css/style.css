@@ -1005,9 +1005,9 @@ footer li {
 .navbar-brand .aActive:after {
     border-bottom: none;
 }
-
- .navbar-default .navbar-toggle .icon-bar {
-    background-color: black;
+ 
+ .navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #000;
 }
 
 /* RESPONSIVE STYLES
