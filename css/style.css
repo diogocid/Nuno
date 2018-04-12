@@ -1005,6 +1005,11 @@ footer li {
 .navbar-brand .aActive:after {
     border-bottom: none;
 }
+
+ .navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
 /* RESPONSIVE STYLES
 ==================================================================*/
 
@@ -1237,4 +1242,5 @@ body {
   margin-left: -100px;
   width: 200px;
 }
+ 
  
